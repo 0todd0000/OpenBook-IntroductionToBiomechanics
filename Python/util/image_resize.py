@@ -11,7 +11,8 @@ from PIL import Image
 
 # dir0   = 
 dir_root = unipath.Path( os.path.dirname(__file__) ).parent.parent
-dir0     = os.path.join(dir_root, 'Tutorials', 'src', '01-InstallJupyter')
+# dir0     = os.path.join(dir_root, 'Tutorials', 'src', '01-InstallJupyter')
+dir0     = os.path.join(dir_root, 'Tutorials', 'src', '02-InstallBlender')
 
 
 
