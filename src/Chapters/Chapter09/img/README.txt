@@ -6,6 +6,13 @@ Downloaded 2020-07-07
 GNU Free Documentation License
 User: Produnis
 
+1 Ball-and-Socket-Joint
+2 Ellipsoid Joint
+3 Saddle Joint
+4 Hinge Joint
+5 Plane Joint
+
+
 
 
 cybernetics-1869205_1280.jpg
