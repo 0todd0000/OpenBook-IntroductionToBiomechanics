@@ -79,5 +79,5 @@ The following software was used to generate this open book's content:
 
 
 <center>
-&copy;  Todd Pataky, 2021
+&copy;  Todd Pataky, 2022
 </center>
