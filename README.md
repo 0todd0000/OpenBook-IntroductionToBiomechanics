@@ -6,13 +6,17 @@
 <br>
 <br>
 
-# Introduction to Human Biomechanics
-# (An open textbook)
+# Introduction to Human Biomechanics  (open textbook)
 
 <br>
 
 This is an open textbook containing lessons regarding a variety of fundamental biomechanics concepts.
 
+<br>
+
+(Updated 2022-04-04)
+
+<br>
 
 **Overall goals**:
 
